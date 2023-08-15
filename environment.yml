@@ -1,0 +1,12 @@
+name: cpad
+channels:
+  - defaults
+dependencies:
+  - python=3.11.2
+  - requests
+  - pandas
+  - numpy
+  - bs4
+  - ipykernel
+  - selenium
+  - html5lib
